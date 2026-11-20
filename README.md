@@ -1,5 +1,3 @@
-# Traffic-Violation-Analysis
-
 # 🚦 Gurgaon Traffic Violation Analysis
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -33,6 +31,23 @@ Using data cleaning, Pivot Tables, Pivot Charts, and analytical techniques, this
 - Examine the relationship between weather conditions and traffic violations.
 - Compare different violation categories based on total and average fine amounts.
 - Generate actionable insights to improve traffic management and road safety.
+
+## 📁 Repository Structure
+
+```text
+Gurgaon-Traffic-Violation-Analysis/
+│
+├── README.md
+│
+├── Dataset/
+│   └── GGN Traffic.xlsx
+│
+├── Dashboard/
+│   └── Pivot Charts & Analytical Visuals
+│
+└── Insights/
+    └── Business Insights & Findings
+```
 
 ## 📂 Dataset Overview
 
@@ -174,23 +189,6 @@ The Excel workbook is organized into the following sheets:
 - Introduce additional road safety measures during rainy weather.
 - Improve fine payment follow-ups and dispute-resolution procedures.
 - Use location-wise violation patterns to allocate traffic enforcement resources more effectively.
-
-## 📁 Repository Structure
-
-```text
-Gurgaon-Traffic-Violation-Analysis/
-│
-├── README.md
-│
-├── Dataset/
-│   └── GGN Traffic.xlsx
-│
-├── Dashboard/
-│   └── Pivot Charts & Analytical Visuals
-│
-└── Insights/
-    └── Business Insights & Findings
-```
 
 ## 🎓 Learning Outcomes
 
